@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bali.applinkstesting",
+    "sha256_cert_fingerprints":
+    ["5F:1E:D1:6E:D8:1F:FD:04:28:FE:4D:69:51:66:D0:0C:91:C8:84:0C:EE:97:72:06:66:C5:67:13:57:3F:44:56"]
+  }
+}]

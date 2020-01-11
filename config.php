@@ -21,6 +21,7 @@
             //id's of users that are allowed to use this command
             //otherwise will return not authenticated message.
             "auth_users" => array(
+                "UM3GE74FP"
             )
         )
     );

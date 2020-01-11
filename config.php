@@ -13,7 +13,7 @@
         //slack configuration
         "slack" => array(
             //auth token of the custom command
-            "token" => "eOibbumcAcOyfv350yUTDg8J",
+            "token" => "jixDnbGgGnaUQB1Gffge2bSD",
 
             //whether to post publicly or to self only
             "post_to_channel" => 1,
